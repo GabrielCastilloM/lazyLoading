@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'http://gabrielcastillom.github.io/lazyLoading/',
+    baseUrl: 'https://gabrielcastillom.github.io/lazyLoading',
   },
 }
