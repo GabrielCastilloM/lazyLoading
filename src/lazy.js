@@ -32,9 +32,6 @@ estados()
 const estados = () => {
     console.log(`⚪️ Total Imágenes: ${imagenesTotales}`);
     console.log(`🟣 Imágenes cargadas: ${imagenesCargadas}`);
-<<<<<<< HEAD
     console.log('_________________________________');
-=======
-    console.log('---------------------------------');
->>>>>>> gabriel
+
 }
